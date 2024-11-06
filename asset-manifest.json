@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hackathon/static/css/main.acf1bc09.css",
+    "main.js": "/hackathon/static/js/main.16666774.js",
+    "static/js/453.8ab44547.chunk.js": "/hackathon/static/js/453.8ab44547.chunk.js",
+    "static/media/5276080.jpg": "/hackathon/static/media/5276080.0ec5d1c38766c8e874de.jpg",
+    "static/media/MediSAFE(1).png": "/hackathon/static/media/MediSAFE(1).bd77be017e777d37f642.png",
+    "index.html": "/hackathon/index.html",
+    "main.acf1bc09.css.map": "/hackathon/static/css/main.acf1bc09.css.map",
+    "main.16666774.js.map": "/hackathon/static/js/main.16666774.js.map",
+    "453.8ab44547.chunk.js.map": "/hackathon/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acf1bc09.css",
+    "static/js/main.16666774.js"
+  ]
+}
