@@ -1,0 +1,45 @@
+{
+  "FoodInteraction": {
+    "Insulin Glargine Lantus SoloStar": {
+      "interaction": "No interactions found",
+      "safe": true
+    },
+    "Metformin Glucophage": {
+      "interaction": "Avoid alcohol. Take with food. Food reduces irritation.",
+      "safe": false
+    },
+    "Allopurinol": {
+      "interaction": "Avoid alcohol. Take with a full glass of water. Take with food.",
+      "safe": false
+    },
+    "Lisinopril Prinivil": {
+      "interaction": "Avoid hypertensive herbs (e.g. bayberry, blue cohosh, cayenne, ephedra, and licorice). Avoid potassium-containing products. Potassium products increase the risk of hyperkalemia. Limit salt intake. Salt may attenuate the antihypertensive effect. Take with or without food. The absorption is unaffected by food.",
+      "safe": false
+    },
+    "Atorvastatin": {
+      "interaction": "Avoid grapefruit products. Grapefruit products may increase the risk for atorvastatin-related adverse effects such as myopathy and rhabdomyolysis. Take with or without food. Food decreases absorption but not to a clinically significant extent.",
+      "safe": false
+    }
+  },
+  "DrugDrugInteraction": {
+    "Major": [
+      {
+        "Prinivil (lisinopril) - allopurinol": "Talk to your doctor before using allopurinol together with lisinopril. Combining these medications may increase the risk of severe allergic reactions and infections. You should seek immediate medical attention if you develop shortness of breath; throat tightness; swelling of the face, lips, or tongue; itching; rash; fever; and/or muscle pain or weakness. Also, let your doctor know if you notice signs of infection or experience fever, chills, sore throat, fatigue, body aches, or other flu-like symptoms. It is important to tell your doctor about all other medications you use, including vitamins and herbs. Do not stop using any medications without first talking to your doctor."
+      }
+    ],
+    "Moderate": [
+      {
+        "Prinivil (lisinopril) - Glucophage (metformin)": "Using lisinopril together with metFORMIN may increase the effects of metFORMIN on lowering blood sugar. This could cause your blood sugar levels to get too low. Signs of low blood sugar include headache, hunger, weakness, dizziness, drowsiness, nervousness, sweating, confusion, and tremor. Talk with your doctor before using lisinopril together with metFORMIN. You may need a dose adjustment and you may need to check your blood sugar more often. It is important to tell your doctor about all other medications you use, including vitamins and herbs. Do not stop using any medications without first talking to your doctor."
+      },
+      {
+        "Prinivil (lisinopril) - insulin glargine": "Using lisinopril together with insulin or certain other diabetes medications may increase the risk of hypoglycemia, or low blood sugar. Symptoms of hypoglycemia include headache, dizziness, drowsiness, nervousness, confusion, tremor, nausea, hunger, weakness, perspiration, palpitation, and rapid heartbeat. Talk to your doctor if you have any questions or concerns. You may need a dose adjustment or more frequent monitoring of your blood sugar to safely use both medications. It is important to tell your doctor about all other medications you use, including vitamins and herbs. Do not stop using any medications without first talking to your doctor."
+      },
+      {
+        "Glucophage (metFORMIN) - insulin glargine": "Using metFORMIN together with insulin glargine can increase the risk of hypoglycemia, or low blood sugar. You may need a dose adjustment or more frequent monitoring of your blood sugar to safely use both medications. Let your doctor know if you experience hypoglycemia during treatment. Symptoms of hypoglycemia include headache, dizziness, drowsiness, nervousness, confusion, tremor, nausea, hunger, weakness, perspiration, palpitation, and rapid heartbeat. It is important to tell your doctor about all other medications you use, including vitamins and herbs. Do not stop using any medications without first talking to your doctor."
+      }
+    ]
+  },
+  "Ibuprofen": {
+    "Prinivil (lisinopril) - ibuprofen": "Talk to your doctor before using lisinopril together with ibuprofen. Combining these medications may reduce the effects of lisinopril in lowering blood pressure. In addition, these medications may affect your kidney function, especially when they are used together frequently or chronically. You are more likely to develop impaired kidney function during treatment with these medications if you are also using a diuretic ('water pill') or if you are elderly or have preexisting kidney disease. You may need a dose adjustment or more frequent monitoring by your doctor to safely use both medications. Contact your doctor if you experience signs and symptoms that may suggest kidney damage such as nausea, vomiting, loss of appetite, increased or decreased urination, sudden weight gain or weight loss, fluid retention, swelling, shortness of breath, muscle cramps, tiredness, weakness, dizziness, confusion, and irregular heart rhythm. It is important to tell your doctor about all other medications you use, including vitamins and herbs. Do not stop using any medications without first talking to your doctor."
+  }
+}
